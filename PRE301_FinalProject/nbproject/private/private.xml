@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/css/bootstrap-reboot.css</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/images/pizza-image-3.jpeg</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/menu.jsp</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/DbLib/DBLib.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/css/style_menu.css</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/css/style_admin.css</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/css/bootstrap.css</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/DTO/customer.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/Controller/AdminPizzaController.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/Controller/LogoutController.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/DAO/DAO.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/css/style.css</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/DTO/order.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/DTO/orderDetail.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/DTO/pizza.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/Controller/AdminOrderController.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/login.jsp</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/css/bootstrap-grid.css</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/DTO/admin.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/Add.jsp</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/profile.jsp</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/images/pizza-image-2.jpeg</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/Controller/OrderController.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/register.jsp</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/landPage.jsp</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/Controller/AdminController.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/images/pizza-image-1.jpeg</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/Controller/ProfileController.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/Controller/LoginController.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/src/java/Controller/RegisterController.java</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/adminPage.jsp</file>
+            <file>file:/C:/Users/minht/PC/Máy%20tính/PRJ301_Project/PRE301_FinalProject/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
